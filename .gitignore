@@ -1,0 +1,8 @@
+# Excluir archivos PDF
+*.pdf
+
+# Opcional: excluir otros archivos comunes (ajusta según necesites)
+*.log
+*.tmp
+/node_modules/
+/.env
