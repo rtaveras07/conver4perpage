@@ -2,7 +2,7 @@
 
 A Python script to convert a PDF into a compact 4-page-per-sheet layout with minimal margins, perfect for printing or space-optimized document viewing.
 
-![Example Output](https://via.placeholder.com/600x400?text=Before+%26+After+PDF+Comparison) *(replace with actual screenshot)*
+ 
 
 ## Features ✨
 - Converts single-page PDFs into space-efficient 4-up layouts
